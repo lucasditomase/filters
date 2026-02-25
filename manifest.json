@@ -643,8 +643,8 @@
           "data/icons/en.svg"
         ]
       },
-      "output_file": "hosts/base/stevenblack_hosts.txt",
-      "provider": "hosts",
+      "output_file": "others/base/stevenblack_hosts.txt",
+      "provider": "others",
       "sha256": "19e1767fea9139e0d3ad0715d3a8d2b8db1c34b65b6eaab40e3f299d03e0ab74",
       "source_url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
       "title": "Blocked Domains",
@@ -668,8 +668,8 @@
           "data/icons/en.svg"
         ]
       },
-      "output_file": "hosts/base/ad_wars_hosts.txt",
-      "provider": "hosts",
+      "output_file": "others/base/ad_wars_hosts.txt",
+      "provider": "others",
       "sha256": "84c4929e9bea82e6821286a8fbdea80e257f187cc30af4d2d593edd3f3b8b953",
       "source_url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/refs/heads/master/hosts",
       "title": "Blocked Domains",
@@ -693,8 +693,8 @@
           "data/icons/en.svg"
         ]
       },
-      "output_file": "hosts/base/tiuxo_ads_hosts.txt",
-      "provider": "hosts",
+      "output_file": "others/base/tiuxo_ads_hosts.txt",
+      "provider": "others",
       "sha256": "5e17cbce3022c295342935fae62c0fab3003ab369d13be14630f420f47cb726c",
       "source_url": "https://raw.githubusercontent.com/tiuxo/hosts/refs/heads/master/ads",
       "title": "Blocked Domains",
