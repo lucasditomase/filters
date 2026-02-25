@@ -1,0 +1,857 @@
+{
+  "filters": [
+    {
+      "category": "base",
+      "collection_id": "adguard_dns",
+      "domains_count": 62074,
+      "file_size_bytes": 1187558,
+      "id": "adguard_base",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/base/adguard_base.txt",
+      "provider": "adguard",
+      "sha256": "42ace1474da4a0350b0751ea264941dc1bfc2a647a4cc8c61bd49a72f46ec500",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/2.txt",
+      "title": "AdGuard Base filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.4.49.45"
+    },
+    {
+      "category": "tracking",
+      "collection_id": "adguard_dns",
+      "domains_count": 75692,
+      "file_size_bytes": 1688556,
+      "id": "adguard_tracking_protection",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/tracking/adguard_tracking_protection.txt",
+      "provider": "adguard",
+      "sha256": "50743d48f47ef71525893ab49d5fe65599ff7213ba5031a548c1751a8161bbc4",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/3.txt",
+      "title": "AdGuard Tracking Protection filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.1.0.55"
+    },
+    {
+      "category": "social",
+      "collection_id": "adguard_dns",
+      "domains_count": 48,
+      "file_size_bytes": 848,
+      "id": "adguard_social_media",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/social/adguard_social_media.txt",
+      "provider": "adguard",
+      "sha256": "c91bc0974b4197070feacf9344724f2db9001bf5f51b5d6dc92edc77ba5723dc",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/4.txt",
+      "title": "AdGuard Social Media filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.1.25.37"
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "adguard_dns",
+      "domains_count": 847,
+      "file_size_bytes": 14511,
+      "id": "adguard_annoyances",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/annoyances/adguard_annoyances.txt",
+      "provider": "adguard",
+      "sha256": "81b0ebcb9b10f0993852c7127413edf740b3a93e47c5c693a9242bd85861dd21",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/14.txt",
+      "title": "AdGuard Annoyances filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.2.59.92"
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "adguard_dns",
+      "domains_count": 174,
+      "file_size_bytes": 3373,
+      "id": "adguard_cookie_notices_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/annoyances/adguard_cookie_notices_filter.txt",
+      "provider": "adguard",
+      "sha256": "2aebce10f5fae83b1c4bf7c5a2e53b39da2396b890efbf8175bfe0cd76135a2b",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/18.txt",
+      "title": "AdGuard Cookie Notices filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.81.57"
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "adguard_dns",
+      "domains_count": 413,
+      "file_size_bytes": 6554,
+      "id": "adguard_popups_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/annoyances/adguard_popups_filter.txt",
+      "provider": "adguard",
+      "sha256": "7c8734ed5af590d2c027d50d32836d5f1c337aee505b12b916e9f70aefd857cd",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/19.txt",
+      "title": "AdGuard Popups filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.70.95"
+    },
+    {
+      "category": "mobile",
+      "collection_id": "adguard_dns",
+      "domains_count": 2,
+      "file_size_bytes": 26,
+      "id": "adguard_mobile_app_banners_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/mobile/adguard_mobile_app_banners_filter.txt",
+      "provider": "adguard",
+      "sha256": "1f79d2756b42d7f7f347d02afbfb11095e2e9551f7fe91959c12c452f1c2db66",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/20.txt",
+      "title": "AdGuard Mobile App Banners filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.27.34"
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "adguard_dns",
+      "domains_count": 243,
+      "file_size_bytes": 4254,
+      "id": "adguard_widgets_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/annoyances/adguard_widgets_filter.txt",
+      "provider": "adguard",
+      "sha256": "2e9c36acb0a9d1c4f65ae9d7cfadf6a1134d92e31461192b5a5b807bf322aada",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/22.txt",
+      "title": "AdGuard Widgets filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.13.63"
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "adguard_dns",
+      "domains_count": 15,
+      "file_size_bytes": 304,
+      "id": "adguard_other_annoyances_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/annoyances/adguard_other_annoyances_filter.txt",
+      "provider": "adguard",
+      "sha256": "73fa44445c20853bacdee28d8f1c534b55f4336ec0e8e21c68ca9dbeba27870e",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/21.txt",
+      "title": "AdGuard Other Annoyances filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.41.93"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 1841,
+      "file_size_bytes": 25319,
+      "id": "adguard_russian_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "ru"
+      ],
+      "metadata": {
+        "icon": "data/icons/ru.svg",
+        "icons": [
+          "data/icons/ru.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_russian_filter.txt",
+      "provider": "adguard",
+      "sha256": "d0a69a7e15b4946dcd3514b4aa407f555978badd0192e38e6814e347c079f3fa",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/1.txt",
+      "title": "AdGuard Russian filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.1.4.40"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 364,
+      "file_size_bytes": 5796,
+      "id": "adguard_german",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "de"
+      ],
+      "metadata": {
+        "icon": "data/icons/de.svg",
+        "icons": [
+          "data/icons/de.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_german.txt",
+      "provider": "adguard",
+      "sha256": "2cba87ab16ca77cbb4cd405744f019e953cfc5d13b05b0b8098e1fc2e916915b",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/6.txt",
+      "title": "AdGuard German filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.51.28"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 6749,
+      "file_size_bytes": 114918,
+      "id": "adguard_french_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "fr"
+      ],
+      "metadata": {
+        "icon": "data/icons/fr.svg",
+        "icons": [
+          "data/icons/fr.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_french_filter.txt",
+      "provider": "adguard",
+      "sha256": "d75e0c846ad2cce893bcdf2870c38b27062a2a4710aad192c4817c17878dcbfc",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/16.txt",
+      "title": "AdGuard French filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.56.10"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 381,
+      "file_size_bytes": 5899,
+      "id": "adguard_japanese",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "ja"
+      ],
+      "metadata": {
+        "icon": "data/icons/ja.svg",
+        "icons": [
+          "data/icons/ja.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_japanese.txt",
+      "provider": "adguard",
+      "sha256": "a965f02e53bc06d3567d3cf7cc870af40e914f59e80f318eb14a1a23a3192efd",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/7.txt",
+      "title": "AdGuard Japanese filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.72.44"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 67,
+      "file_size_bytes": 1194,
+      "id": "adguard_dutch_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "nl"
+      ],
+      "metadata": {
+        "icon": "data/icons/nl.svg",
+        "icons": [
+          "data/icons/nl.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_dutch_filter.txt",
+      "provider": "adguard",
+      "sha256": "f42994365ec5a7998fc1cf6240c304d5818707b7d11b94fb89c11006472f84d5",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/8.txt",
+      "title": "AdGuard Dutch filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.9.2"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 166,
+      "file_size_bytes": 2860,
+      "id": "adguard_spanish_portuguese",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "es",
+        "pt"
+      ],
+      "metadata": {
+        "icon": "data/icons/es.svg",
+        "icons": [
+          "data/icons/es.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_spanish_portuguese.txt",
+      "provider": "adguard",
+      "sha256": "2e47f93cba0debe6a7e9125a5c2222f6b91c298be6e911065e49ac9fec259b87",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/9.txt",
+      "title": "AdGuard Spanish/Portuguese filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.33.40"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 207,
+      "file_size_bytes": 3450,
+      "id": "adguard_turkish_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "tr"
+      ],
+      "metadata": {
+        "icon": "data/icons/tr.svg",
+        "icons": [
+          "data/icons/tr.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_turkish_filter.txt",
+      "provider": "adguard",
+      "sha256": "df4ecd356bc5b76dadbf21698b95f3812c2fedc3fd6fc9d6535cf9457225ec46",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/13.txt",
+      "title": "AdGuard Turkish filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.62.42"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 5867,
+      "file_size_bytes": 80974,
+      "id": "adguard_chinese_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "zh"
+      ],
+      "metadata": {
+        "icon": "data/icons/zh.svg",
+        "icons": [
+          "data/icons/zh.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_chinese_filter.txt",
+      "provider": "adguard",
+      "sha256": "882b6044dced2ce072fe1af1b0574c48b5af0a785d3c5ed19fc94bfd45a861df",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/224.txt",
+      "title": "AdGuard Chinese filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.1.54.74"
+    },
+    {
+      "category": "regional",
+      "collection_id": "adguard_dns",
+      "domains_count": 1685,
+      "file_size_bytes": 22575,
+      "id": "adguard_ukrainian_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "uk"
+      ],
+      "metadata": {
+        "icon": "data/icons/uk.svg",
+        "icons": [
+          "data/icons/uk.svg"
+        ]
+      },
+      "output_file": "adguard/regional/adguard_ukrainian_filter.txt",
+      "provider": "adguard",
+      "sha256": "988707a777622f3ff8d4f3050e948eccbd0ea0adffcd5a0039a43634714e581b",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/23.txt",
+      "title": "AdGuard Ukrainian filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.7.74"
+    },
+    {
+      "category": "mobile",
+      "collection_id": "adguard_dns",
+      "domains_count": 893,
+      "file_size_bytes": 15710,
+      "id": "adguard_mobile_ads_filter",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/mobile/adguard_mobile_ads_filter.txt",
+      "provider": "adguard",
+      "sha256": "5a6af46bfa1b070cc5979e0d499612d97bdb17652be449b6d47c04b8f96fd0e7",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/11.txt",
+      "title": "AdGuard Mobile Ads filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.0.67.84"
+    },
+    {
+      "category": "dns",
+      "collection_id": "adguard_dns",
+      "domains_count": 154131,
+      "file_size_bytes": 3138822,
+      "id": "adguard_dns",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "adguard/dns/adguard_dns.txt",
+      "provider": "adguard",
+      "sha256": "806b4647281fa300957350b6cdc0117e3d9d3afc71b3e27cc7bc83329bf7bbe7",
+      "source_url": "https://filters.adtidy.org/mac_v3/filters/15.txt",
+      "title": "AdGuard DNS filter",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": "2.1.12.91"
+    },
+    {
+      "category": "base",
+      "collection_id": "easylist_family",
+      "domains_count": 56674,
+      "file_size_bytes": 1074508,
+      "id": "easylist_base",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "easylist/base/easylist_base.txt",
+      "provider": "easylist",
+      "sha256": "c7b5eac4983eb38da7f01c1e202931e76d0a6065310c3cd6cfc439e501f8fef6",
+      "source_url": "https://easylist.to/easylist/easylist.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "easylist_family",
+      "domains_count": 305,
+      "file_size_bytes": 5923,
+      "id": "fanboy_cookie_monster",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "easylist/annoyances/fanboy_cookie_monster.txt",
+      "provider": "easylist",
+      "sha256": "b0e06983add41da709c2c87475898c3fef18d624530a385b44b7a83046d5def4",
+      "source_url": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "tracking",
+      "collection_id": "easylist_family",
+      "domains_count": 46106,
+      "file_size_bytes": 982708,
+      "id": "easyprivacy",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "easylist/tracking/easyprivacy.txt",
+      "provider": "easylist",
+      "sha256": "601636d6430ffdea1dada16d0c3339ae7c1ed11b121a3777e89a220e6331e269",
+      "source_url": "https://easylist.to/easylist/easyprivacy.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "annoyances",
+      "collection_id": "easylist_family",
+      "domains_count": 905,
+      "file_size_bytes": 15356,
+      "id": "fanboy_annoyance",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "easylist/annoyances/fanboy_annoyance.txt",
+      "provider": "easylist",
+      "sha256": "2a04771b10c32b8c9d8f5932412e84cf0c327393728ddf7312f72559b15b77ae",
+      "source_url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "social",
+      "collection_id": "easylist_family",
+      "domains_count": 61,
+      "file_size_bytes": 985,
+      "id": "fanboy_social",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "easylist/social/fanboy_social.txt",
+      "provider": "easylist",
+      "sha256": "4d7b0ebd3584735057f177e5ceee8b9c5888662952e75299762be27634e1cfb0",
+      "source_url": "https://easylist.to/easylist/fanboy-social.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "base",
+      "collection_id": "hosts_family",
+      "domains_count": 43353,
+      "file_size_bytes": 775117,
+      "id": "stevenblack_hosts",
+      "input_format": "hosts",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "hosts/base/stevenblack_hosts.txt",
+      "provider": "hosts",
+      "sha256": "19e1767fea9139e0d3ad0715d3a8d2b8db1c34b65b6eaab40e3f299d03e0ab74",
+      "source_url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "base",
+      "collection_id": "hosts_family",
+      "domains_count": 1408,
+      "file_size_bytes": 26047,
+      "id": "ad_wars_hosts",
+      "input_format": "hosts",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "hosts/base/ad_wars_hosts.txt",
+      "provider": "hosts",
+      "sha256": "84c4929e9bea82e6821286a8fbdea80e257f187cc30af4d2d593edd3f3b8b953",
+      "source_url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/refs/heads/master/hosts",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "base",
+      "collection_id": "hosts_family",
+      "domains_count": 1345,
+      "file_size_bytes": 21404,
+      "id": "tiuxo_ads_hosts",
+      "input_format": "hosts",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "hosts/base/tiuxo_ads_hosts.txt",
+      "provider": "hosts",
+      "sha256": "5e17cbce3022c295342935fae62c0fab3003ab369d13be14630f420f47cb726c",
+      "source_url": "https://raw.githubusercontent.com/tiuxo/hosts/refs/heads/master/ads",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "parental_control",
+      "collection_id": "parental_control",
+      "domains_count": 26923,
+      "file_size_bytes": 432781,
+      "id": "abl_nsfw",
+      "input_format": "adblock",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "parental/parental_control/abl_nsfw.txt",
+      "provider": "parental",
+      "sha256": "a9ca68d7af44237b913bab52b9c2653d9663c99722fc506af21933a2817b4bd7",
+      "source_url": "https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "parental_control",
+      "collection_id": "parental_control",
+      "domains_count": 499128,
+      "file_size_bytes": 10399910,
+      "id": "blocklistproject_porn",
+      "input_format": "hosts",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "parental/parental_control/blocklistproject_porn.txt",
+      "provider": "parental",
+      "sha256": "8bfdc40bd4d82f24fa10e8fc98b6c3ac4eb863ac5e6767b3a5e2132b4e65ed84",
+      "source_url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "parental_control",
+      "collection_id": "parental_control",
+      "domains_count": 1905909,
+      "file_size_bytes": 50380407,
+      "id": "chadmayfield_porn_all",
+      "input_format": "plain",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "parental/parental_control/chadmayfield_porn_all.txt",
+      "provider": "parental",
+      "sha256": "72adbc3fbd78388f1daccba74559e5287ca8e30f6ef45f970f2cc54af6b90476",
+      "source_url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "parental_control",
+      "collection_id": "parental_control",
+      "domains_count": 5934,
+      "file_size_bytes": 91151,
+      "id": "chadmayfield_porn_top1m",
+      "input_format": "plain",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "parental/parental_control/chadmayfield_porn_top1m.txt",
+      "provider": "parental",
+      "sha256": "a2dc85795cec2ed84b1d2cb521880db48a1709838d8de49caf418679ae1088d8",
+      "source_url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "parental_control",
+      "collection_id": "parental_control",
+      "domains_count": 311749,
+      "file_size_bytes": 5529496,
+      "id": "energized_porn_hosts",
+      "input_format": "hosts",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "parental/parental_control/energized_porn_hosts.txt",
+      "provider": "parental",
+      "sha256": "45aff4db6eb4776d86c41e5abae3dc5a2c902dc369044b28884531218003ada0",
+      "source_url": "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/refs/heads/master/EnergizedPorn/energized/hosts",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    },
+    {
+      "category": "parental_control",
+      "collection_id": "parental_control",
+      "domains_count": 25233,
+      "file_size_bytes": 431581,
+      "id": "energized_pornlite_hosts",
+      "input_format": "hosts",
+      "is_uncategorized": false,
+      "languages": [
+        "en"
+      ],
+      "metadata": {
+        "icon": "data/icons/en.svg",
+        "icons": [
+          "data/icons/en.svg"
+        ]
+      },
+      "output_file": "parental/parental_control/energized_pornlite_hosts.txt",
+      "provider": "parental",
+      "sha256": "7fd745e656414f712b7ef40f63732822c6d7cc74ff5a2d4045305c3387ef43c5",
+      "source_url": "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/refs/heads/master/EnergizedPornLite/energized/hosts",
+      "title": "Blocked Domains",
+      "updated_at": "2026-02-25T12:48:41.904421Z",
+      "version": ""
+    }
+  ],
+  "generated_at": "2026-02-25T12:48:41.904421Z",
+  "schema_version": 1
+}
