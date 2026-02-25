@@ -21,7 +21,6 @@ ad-files.classting.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
 ad-x.co.uk
-ad.admitad.com
 ad.apps.fm
 ad.apsalar.com
 ad.buzzvil.com
@@ -100,7 +99,6 @@ adnami.io
 adonly.com
 adpies.com
 adplatform.vrtcal.com
-adplex.co.kr
 adpopcorn.com
 adprotected.com
 adproxy.tf1.fr
@@ -175,7 +173,6 @@ adshost2.com
 adslog.apexinnotech.com
 adslot.uc.cn
 adsmo.ru
-adsmobila.com
 adsmogo.mobi
 adsmogo.net
 adsmoloco.com
@@ -186,7 +183,6 @@ adsrvr.io
 adsrvr.org
 adstrategy.biz.weibo.com
 adtech.de
-adtheorent.com
 adtilt.com
 adtimaserver.vn
 adtmonetize.com
@@ -316,7 +312,6 @@ blogads.com
 blueduckredapple.com
 boostads.net
 brealtime.com
-brokerbabe.com
 bstgms4y.com
 bstream.channelcom.tech
 bu1.duba.com
@@ -336,6 +331,7 @@ cashprom.ru
 casino-ad-mediation.me2zengame.com
 cdn-ad.wtzw.com
 cdn-api.admost.com
+cdn-cf.postitial.com
 cdn-image.com
 cdn-ketchapp.akamaized.net
 cdn-rtb.sape.ru
@@ -479,7 +475,6 @@ huntmad.com
 hw-ot-ad.a.yximgs.com
 hybrid.ai
 hyperadx.com
-i-mobile.co.jp
 i-vengo.com
 i.isnssdk.com
 i.singular.net
@@ -511,15 +506,12 @@ integral-marketing.com
 intermarkets.net
 intowow.com
 investingchannel.com
-iqzone.com
 iyes.youku.com
 jioads.akamaized.net
 jjpp.lmtjapi.com
 justad.mobi
 jybsb9oyss.com
 ketchapp.org
-keydot.net
-kiesta.net
 kiosked.com
 kochava.com
 komoona.com
@@ -544,7 +536,6 @@ look.kfiopkln.com
 lqm.io
 luckyforworlds.com
 lxqcgj.com
-ma-code.ru
 mad.mobisky.pl
 madnet.ru
 mads.amazon.com
@@ -578,7 +569,6 @@ mobi.yanosik.pl
 mobiads.ru
 mobidriven.com
 mobile-campaigns.avast.com
-mobilebanner.ru
 mobilecore.com
 mobiledl.adboe.com
 mobilefuse.com
@@ -646,13 +636,10 @@ other.appcpi.net
 p-behacdn.ksmobile.net
 p1-lm.adukwai.com
 p16-ad.byteoversea.com
-pagead46.l.doubleclick.net
-painsko.com
 pangle.io
 pangolin16.isnssdk.com
 pangolin16.sgsnssdk.com
 parrot-flow.com
-partnerad.l.doubleclick.net
 partnerearning.com
 pasta.esfile.duapps.com
 perf-events.cloud.unity3d.com
@@ -666,14 +653,10 @@ pixel.admobclick.com
 playgap.b-cdn.net
 playhaven.com
 playwire.com
-plugin.mediavoice.com
 plugin.mobopay.baidu.com
 pn.ybp.yahoo.com
 polymorphicads.jp
 pontiflex.com
-pos.baidu.com
-postitial.com
-postut.cn
 powerlinks.com
 pr.comet.yahoo.com
 preitem.wshareit.com
@@ -689,6 +672,7 @@ promotion-quicker.jftechsoft.com
 promotion.polarisoffice.com
 promotion.xmeye.net
 promotionad.nvcam.net
+pssvc.iqzone.com
 psvpromo.psvgamestudio.com
 pub1.co
 pubnative.info
@@ -792,7 +776,6 @@ tapone.jp
 tappx.com
 tapsell.ir
 tapsense.com
-tapstat.ru
 tapulsads.ru
 targetspot.com
 tbiwtech.com
@@ -817,10 +800,8 @@ tm1.hoiplay.com
 tmz.vo.llnwd.net
 tnc16-alisg.isnssdk.com
 tnc16-useast1a.isnssdk.com
-tnkfactory.com
 togothermany.com
 tonefuse.com
-tongqing2015.com
 toponadss.com
 tpbid.com
 tr.acobt.tech
@@ -831,7 +812,6 @@ trafmag.com
 traktum.com
 trc.taboola.com
 trk.glispa.com
-ts166.net
 tubemogul.com
 turn.com
 tveta.naver.net
@@ -858,7 +838,6 @@ velti.com
 veta.naver.com
 videoads-cloud.rovio.com
 videoplus.vo.llnwd.net
-vidout.net
 vm5apis.com
 vmap.v.ad-generation.jp
 vniddlg.xyz
@@ -884,7 +863,6 @@ ykad-data.youku.com
 yllix.com
 youmi.net
 yovoads.com
-yuhuads.com
 zedo.com
 zgzxs.weathercn.com
 zmqdez.ru
