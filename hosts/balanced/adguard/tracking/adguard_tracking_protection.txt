@@ -38654,7 +38654,9 @@ p06.sc.origins.en25.com
 p1.danskebank.co.uk
 p1.danskebank.dk
 p1.danskebank.ie
+p16-ad-site-sign-sg.tiktokcdn.com
 p16-tiktokcdn-com.akamaized.net.iberostar.com
+p19-ad-site-sign-sg.tiktokcdn.com
 p192.eastbaytimes.com
 p2.danskebank.co.uk
 p2.danskebank.dk
