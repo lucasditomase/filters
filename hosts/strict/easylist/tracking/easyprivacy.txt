@@ -10464,7 +10464,6 @@ cratecamera.com
 crawford-industries.actonservice.com
 crazyclickstats.com
 crazyegg.com
-crcldu.com
 create.encore-mx.com
 create.encoreglobal.com
 createdip.com
@@ -15063,6 +15062,7 @@ fsm.lapresse.ca
 fspark-ap.com
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
+fst-ec.perimeterx.net
 fstats.xyz
 fstrk.net
 fsugco.rcn.nl
@@ -39241,6 +39241,7 @@ testa8wifi.dokoyorimo.com
 testadmiral.com
 testbnc.mksp.io
 testbranch.onsequel.com
+testdomain123.com
 testedtouch.com
 testforce.actonservice.com
 testforms.fidelity.ca
