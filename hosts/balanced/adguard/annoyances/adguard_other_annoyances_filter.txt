@@ -6,5 +6,6 @@ illicium.web.money
 illicium.wmtransfer.com
 jobs.t3n.de
 newsstat.dallasnews.com
+point.widget.rakuten.co.jp
 shop.kicker.de
 smart-bdash.com

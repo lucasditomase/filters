@@ -3,9 +3,11 @@ aa.hwigroup.com
 aa.tweakers.nl
 ab.hwigroup.com
 ab.tweakers.nl
+adcdn.ster.nl
 ads.nextday.media
 advertising-cdn.dpgmedia.cloud
 advertising-module.api.dpgmedia.cloud
+bannersimages.s-bol.com
 cdn.optoutadvertising.com
 content1.pcmweb.nl
 content1.pu.nl
@@ -26,9 +28,14 @@ kjdsfjisdfjr23.azurewebsites.net
 mt67.net
 nextdaymedia-ads.s3.amazonaws.com
 nojazz.eu
+partner.bol.com
+partnerprogramma.bol.com
 preroll.omroepvenlo.nl
 proxy.optoutadserving.com
 publize.net
+sp.dpgmedia.net
+t.bazarow.com
+tools.islive.nl
 traffic.12flirt.com
 trickyrock.com
 viadata.store

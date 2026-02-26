@@ -21,6 +21,7 @@ ad-files.classting.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
 ad-x.co.uk
+ad.admitad.com
 ad.apps.fm
 ad.apsalar.com
 ad.buzzvil.com
@@ -636,10 +637,12 @@ other.appcpi.net
 p-behacdn.ksmobile.net
 p1-lm.adukwai.com
 p16-ad.byteoversea.com
+pagead46.l.doubleclick.net
 pangle.io
 pangolin16.isnssdk.com
 pangolin16.sgsnssdk.com
 parrot-flow.com
+partnerad.l.doubleclick.net
 partnerearning.com
 pasta.esfile.duapps.com
 perf-events.cloud.unity3d.com
@@ -653,10 +656,12 @@ pixel.admobclick.com
 playgap.b-cdn.net
 playhaven.com
 playwire.com
+plugin.mediavoice.com
 plugin.mobopay.baidu.com
 pn.ybp.yahoo.com
 polymorphicads.jp
 pontiflex.com
+pos.baidu.com
 powerlinks.com
 pr.comet.yahoo.com
 preitem.wshareit.com

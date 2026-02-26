@@ -1,5 +1,6 @@
 9jdq2a.poco.de
 analytics-consent-manager.azureedge.net
+app.secureprivacy.ai
 appconsent.io
 banner.cookiescan.com
 cb-mms.carbuyer.co.uk
@@ -11,6 +12,9 @@ ccm1.dlr.de
 ccm19.mindpark.at
 ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
+cdn.cookie.pii.ai
+choices.truste.com
+cm.nxtm.pl
 cmp-static.nature.com
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
@@ -76,6 +80,7 @@ consent.thecountrysmallholder.com
 consent.thegreatoutdoorsmag.com
 consent.themeteocompany.com
 consent.triad.sk
+consent.truste.com
 consent.wegotthiscovered.com
 consent.werner-mertz.de
 consent2.rheinische-anzeigenblaetter.de
@@ -95,7 +100,11 @@ cookieapi.incomit.dk
 cookieapi2.incomit.dk
 cookiebanner.gepruefter-webshop.de
 cookiebot.inkarnate.com
+cookieconsent.dfikir.com
+cookiecontrol.bleau.dk
 cookiemanager.onm.de
+cookiemanager1.contentforces.com
+cookierulez.sqrt64.it
 cookies.ae-webdesign.com
 cookies.bakehouse.at
 cookies.doutoresdaweb.com.br
@@ -122,14 +131,17 @@ crta.and.co.uk
 cscript-cdn-irl.abb.com
 d2eucw4fxv7nil.cloudfront.net
 fc.vodafone.de
+flookie.elfgenpick.net
 fundingchoicesmessages.google.com
 fuse.forbes.com
 gdpr-api.sharethis.com
+gdpr-legal-cookie.beeclever.app
 gdpr-settings.s3.amazonaws.com
 gdpr.api.bcdn.jp
 gdpr.internetbrands.com
 gdpr.laxd.com
 gdpr.studybreakmedia.com
+geolocation.onetrust.com
 hc.bonprix.hu
 hc.bonprix.ro
 hc.bonprix.sk
@@ -139,11 +151,15 @@ me9ddf.moebelix.cz
 messaging.sourcepoint.com
 mfegestaocookies.cloud.itau.com.br
 mms.cmpsky.com
+oil.axelspringer.com
 optanon.blob.core.windows.net
 plugin.management
+polaris.truevault.com
+privacidade.integra.global
 privacy-api-eu1.clym.io
 privacy-cdn.sixfifty.com
 privacy.claytonhomes.com
+privacy.clion.agency
 privacy.footmercato.net
 privacy.francoisesaget.com
 privacy.heidi.news
@@ -151,6 +167,8 @@ privacy.letemps.ch
 privacy.luxair.lu
 privacypolicy.trgr.be
 privacyportal.fatergroup.com
+private.dmscookie.com
+quantcast.mgr.consensu.org
 ressource.gdpr-banner.awsmpsa.com
 rodo.agora.pl
 sm-sp.followfollow.com
@@ -164,6 +182,7 @@ sourcepoint.jalopnik.com
 sourcepoint.theonion.com
 sourcepoint.theroot.com
 sync-transcend-cdn.com
+t.atmng.io
 tp.triple.co.il
 transcendcdn.eventbrite.com
 truyoproductionuscdn.truyo.com
@@ -171,5 +190,6 @@ up-cookiemon.wavecdn.net
 vg247-uk.vg247.com
 voorkeuren.tvgids.nl
 widget.brand-fresh.it
+widget.clym-sdk.net
 widgets.openli.com
 zgody.infor.pl
