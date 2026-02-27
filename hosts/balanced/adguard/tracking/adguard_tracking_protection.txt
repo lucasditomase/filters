@@ -6371,7 +6371,6 @@ app.seminoles.com
 app.shopimind.com
 app.shoptarget.com.br
 app.siemensplmevents.com
-app.siteperformancetest.net
 app.siusalukis.com
 app.sjsuspartans.com
 app.sjuhawks.com
@@ -48379,6 +48378,7 @@ sitecats.troweprice.com
 sitecats.uacollegesavings.com
 sitectlyst.saksfifthavenue.com
 siteintercept.qualtrics.com
+siteperformancetest.net
 sites.campaignmgr.cisco.com
 sites.cliente.nissan.com.mx
 sites.groo.co.il

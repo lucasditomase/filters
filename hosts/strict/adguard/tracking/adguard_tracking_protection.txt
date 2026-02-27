@@ -6554,7 +6554,6 @@ app.seminoles.com
 app.shopimind.com
 app.shoptarget.com.br
 app.siemensplmevents.com
-app.siteperformancetest.net
 app.siusalukis.com
 app.sjsuspartans.com
 app.sjuhawks.com
@@ -50205,6 +50204,7 @@ siteimproveanalytics.com
 siteintercept.qualtrics.com
 sitelabweb.com
 sitemeter.com
+siteperformancetest.net
 sitereport.org
 sites.campaignmgr.cisco.com
 sites.cliente.nissan.com.mx
