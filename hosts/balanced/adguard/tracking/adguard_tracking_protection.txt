@@ -15454,7 +15454,6 @@ diocgn.biltorvet.dk
 dioqto.totaljobs.com
 direct-collect.dy-api.com
 direct-collect.dy-api.eu
-direct-events-collector.spot.im
 direct.corporatefinanceinstitute.com
 direct.medicinehorizon.co.il
 direct.wuka.co.uk
