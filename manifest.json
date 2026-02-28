@@ -3,8 +3,8 @@
     {
       "category": "base",
       "collection_id": "adguard_dns",
-      "domains_count": 60958,
-      "file_size_bytes": 1175729,
+      "domains_count": 60971,
+      "file_size_bytes": 1175975,
       "id": "adguard_base",
       "input_format": "adblock",
       "is_uncategorized": false,
@@ -18,21 +18,21 @@
         ]
       },
       "output_file": "balanced/adguard/base/adguard_base.txt",
-      "parsed_domains_count": 64291,
+      "parsed_domains_count": 64304,
       "protection_level": "balanced",
       "provider": "adguard",
-      "sha256": "980527a99478d2a449bb5acb3a887e5a89e685831032b5b9a85c8e361494d0ec",
+      "sha256": "5b9b384e4ea6e6fc87d5ae90fa5ba4b1bc8573e3592e857f5680e560413f03f4",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/2.txt",
       "title": "AdGuard Base filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_base:balanced",
-      "version": "2.4.50.4"
+      "version": "2.4.50.5"
     },
     {
       "category": "base",
       "collection_id": "adguard_dns",
-      "domains_count": 62667,
-      "file_size_bytes": 1198970,
+      "domains_count": 62680,
+      "file_size_bytes": 1199216,
       "id": "adguard_base",
       "input_format": "adblock",
       "is_uncategorized": false,
@@ -46,15 +46,15 @@
         ]
       },
       "output_file": "strict/adguard/base/adguard_base.txt",
-      "parsed_domains_count": 66139,
+      "parsed_domains_count": 66152,
       "protection_level": "strict",
       "provider": "adguard",
-      "sha256": "abf987064018d685152c4562a3307aecc72091075ca66f948736ff6e33809e15",
+      "sha256": "4552060024cd9c4d67b4d1418c8bbb09155a355e1ba1b9acb8f4d771d08afbb3",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/2.txt",
       "title": "AdGuard Base filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_base:strict",
-      "version": "2.4.50.4"
+      "version": "2.4.50.5"
     },
     {
       "category": "tracking",
@@ -80,7 +80,7 @@
       "sha256": "ca30cfe8e4bdc3200360e016ea6bd64e2af7332bf38ccf0023c10eef7b754497",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/3.txt",
       "title": "AdGuard Tracking Protection filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_tracking_protection:balanced",
       "version": "2.1.0.73"
     },
@@ -108,7 +108,7 @@
       "sha256": "811b853649a6c46d1f9e296a37410011eff7267516b5d02b474b60bc4643a342",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/3.txt",
       "title": "AdGuard Tracking Protection filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_tracking_protection:strict",
       "version": "2.1.0.73"
     },
@@ -136,7 +136,7 @@
       "sha256": "37e6a0b78d87427d157c7b0ea379930ef4e5b2ed869967b32105431e020017e6",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/4.txt",
       "title": "AdGuard Social Media filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_social_media:balanced",
       "version": "2.1.25.46"
     },
@@ -164,7 +164,7 @@
       "sha256": "c91bc0974b4197070feacf9344724f2db9001bf5f51b5d6dc92edc77ba5723dc",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/4.txt",
       "title": "AdGuard Social Media filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_social_media:strict",
       "version": "2.1.25.46"
     },
@@ -192,7 +192,7 @@
       "sha256": "fce0da20d3f9995a07279f9a85fbcc9d730245d76d3de02de4ddea3ff2b34ac6",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/14.txt",
       "title": "AdGuard Annoyances filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_annoyances:balanced",
       "version": "2.2.60.27"
     },
@@ -220,7 +220,7 @@
       "sha256": "81b0ebcb9b10f0993852c7127413edf740b3a93e47c5c693a9242bd85861dd21",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/14.txt",
       "title": "AdGuard Annoyances filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_annoyances:strict",
       "version": "2.2.60.27"
     },
@@ -248,7 +248,7 @@
       "sha256": "22b08617f251120172e108c808fa02685848ba1d8ddcfb2fa8ed107609a1e77e",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/18.txt",
       "title": "AdGuard Cookie Notices filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_cookie_notices_filter:balanced",
       "version": "2.0.81.77"
     },
@@ -276,7 +276,7 @@
       "sha256": "2aebce10f5fae83b1c4bf7c5a2e53b39da2396b890efbf8175bfe0cd76135a2b",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/18.txt",
       "title": "AdGuard Cookie Notices filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_cookie_notices_filter:strict",
       "version": "2.0.81.77"
     },
@@ -304,7 +304,7 @@
       "sha256": "af944057c50b23c014e12e2e17a71225c99da5df0761ce8ba669b3ab148e6ee9",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/19.txt",
       "title": "AdGuard Popups filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_popups_filter:balanced",
       "version": "2.0.71.22"
     },
@@ -332,7 +332,7 @@
       "sha256": "7c8734ed5af590d2c027d50d32836d5f1c337aee505b12b916e9f70aefd857cd",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/19.txt",
       "title": "AdGuard Popups filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_popups_filter:strict",
       "version": "2.0.71.22"
     },
@@ -360,7 +360,7 @@
       "sha256": "1f79d2756b42d7f7f347d02afbfb11095e2e9551f7fe91959c12c452f1c2db66",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/20.txt",
       "title": "AdGuard Mobile App Banners filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_mobile_app_banners_filter:balanced",
       "version": "2.0.27.44"
     },
@@ -388,7 +388,7 @@
       "sha256": "1f79d2756b42d7f7f347d02afbfb11095e2e9551f7fe91959c12c452f1c2db66",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/20.txt",
       "title": "AdGuard Mobile App Banners filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_mobile_app_banners_filter:strict",
       "version": "2.0.27.44"
     },
@@ -416,7 +416,7 @@
       "sha256": "e7ed67b2bf0a7d15582cbc85cbb6313efa9c17d43cd05c5ec99fe3fe6b652157",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/22.txt",
       "title": "AdGuard Widgets filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_widgets_filter:balanced",
       "version": "2.0.13.66"
     },
@@ -444,7 +444,7 @@
       "sha256": "2e9c36acb0a9d1c4f65ae9d7cfadf6a1134d92e31461192b5a5b807bf322aada",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/22.txt",
       "title": "AdGuard Widgets filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_widgets_filter:strict",
       "version": "2.0.13.66"
     },
@@ -472,7 +472,7 @@
       "sha256": "97fc49f4a3b3fe4baea78c95b90a9ce9134e9de7a6d2611887ce1e24ac02412b",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/21.txt",
       "title": "AdGuard Other Annoyances filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_other_annoyances_filter:balanced",
       "version": "2.0.42.4"
     },
@@ -500,7 +500,7 @@
       "sha256": "73fa44445c20853bacdee28d8f1c534b55f4336ec0e8e21c68ca9dbeba27870e",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/21.txt",
       "title": "AdGuard Other Annoyances filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_other_annoyances_filter:strict",
       "version": "2.0.42.4"
     },
@@ -528,7 +528,7 @@
       "sha256": "6ae4cdda6b7c4eafa1604910aba4f98bb0474073cacd38c24d52a29ce01aa430",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/1.txt",
       "title": "AdGuard Russian filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_russian_filter:balanced",
       "version": "2.1.4.48"
     },
@@ -556,7 +556,7 @@
       "sha256": "d0a69a7e15b4946dcd3514b4aa407f555978badd0192e38e6814e347c079f3fa",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/1.txt",
       "title": "AdGuard Russian filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_russian_filter:strict",
       "version": "2.1.4.48"
     },
@@ -584,7 +584,7 @@
       "sha256": "26ce9c090498de54cafee9df94d513e173117163aaa06a90d11cbbe3fd02f388",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/6.txt",
       "title": "AdGuard German filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_german:balanced",
       "version": "2.0.51.30"
     },
@@ -612,7 +612,7 @@
       "sha256": "2cba87ab16ca77cbb4cd405744f019e953cfc5d13b05b0b8098e1fc2e916915b",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/6.txt",
       "title": "AdGuard German filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_german:strict",
       "version": "2.0.51.30"
     },
@@ -640,7 +640,7 @@
       "sha256": "1b8a433cda6814a7ba4ad9944642e6e9e4c2b7c4ae7316e9f6d6803c7767282a",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/16.txt",
       "title": "AdGuard French filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_french_filter:balanced",
       "version": "2.0.56.14"
     },
@@ -668,7 +668,7 @@
       "sha256": "d75e0c846ad2cce893bcdf2870c38b27062a2a4710aad192c4817c17878dcbfc",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/16.txt",
       "title": "AdGuard French filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_french_filter:strict",
       "version": "2.0.56.14"
     },
@@ -696,7 +696,7 @@
       "sha256": "987b45e8c511fa7a675727a1be6d716d3b0fe600dc60ce11f881b88cae0303e7",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/7.txt",
       "title": "AdGuard Japanese filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_japanese:balanced",
       "version": "2.0.72.52"
     },
@@ -724,7 +724,7 @@
       "sha256": "a965f02e53bc06d3567d3cf7cc870af40e914f59e80f318eb14a1a23a3192efd",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/7.txt",
       "title": "AdGuard Japanese filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_japanese:strict",
       "version": "2.0.72.52"
     },
@@ -752,7 +752,7 @@
       "sha256": "7e1cfac8e1f2ab33e046289fda868d1558925cd15634f0ee5bdda76f2135d907",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/8.txt",
       "title": "AdGuard Dutch filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_dutch_filter:balanced",
       "version": "2.0.9.2"
     },
@@ -780,7 +780,7 @@
       "sha256": "f42994365ec5a7998fc1cf6240c304d5818707b7d11b94fb89c11006472f84d5",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/8.txt",
       "title": "AdGuard Dutch filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_dutch_filter:strict",
       "version": "2.0.9.2"
     },
@@ -809,7 +809,7 @@
       "sha256": "2b10cb607b86e57622c6868147ce936ee262c78d8cae325ed416df9c7c65eadb",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/9.txt",
       "title": "AdGuard Spanish/Portuguese filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_spanish_portuguese:balanced",
       "version": "2.0.33.41"
     },
@@ -838,7 +838,7 @@
       "sha256": "2e47f93cba0debe6a7e9125a5c2222f6b91c298be6e911065e49ac9fec259b87",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/9.txt",
       "title": "AdGuard Spanish/Portuguese filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_spanish_portuguese:strict",
       "version": "2.0.33.41"
     },
@@ -866,7 +866,7 @@
       "sha256": "d3f94310b69af04c85dd2e5cfba40e019235b36fdaf4c7727844029565ca0eda",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/13.txt",
       "title": "AdGuard Turkish filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_turkish_filter:balanced",
       "version": "2.0.62.55"
     },
@@ -894,7 +894,7 @@
       "sha256": "df4ecd356bc5b76dadbf21698b95f3812c2fedc3fd6fc9d6535cf9457225ec46",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/13.txt",
       "title": "AdGuard Turkish filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_turkish_filter:strict",
       "version": "2.0.62.55"
     },
@@ -922,7 +922,7 @@
       "sha256": "6ad1a43c21dc50c20c711056f37dce2878286ab0a3b7fbaf4c64fc60a1f76579",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/224.txt",
       "title": "AdGuard Chinese filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_chinese_filter:balanced",
       "version": "2.1.54.91"
     },
@@ -950,7 +950,7 @@
       "sha256": "749951c78239bba2880a06fd45fd8a6b29aa7a7a6169ce890b2ea01707fdee9e",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/224.txt",
       "title": "AdGuard Chinese filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_chinese_filter:strict",
       "version": "2.1.54.91"
     },
@@ -978,7 +978,7 @@
       "sha256": "bf96712f34f4f1d6bc179a83c254da0cdf978a5e6f80864d76ab0b1e906a957d",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/23.txt",
       "title": "AdGuard Ukrainian filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_ukrainian_filter:balanced",
       "version": "2.0.7.75"
     },
@@ -1006,7 +1006,7 @@
       "sha256": "988707a777622f3ff8d4f3050e948eccbd0ea0adffcd5a0039a43634714e581b",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/23.txt",
       "title": "AdGuard Ukrainian filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_ukrainian_filter:strict",
       "version": "2.0.7.75"
     },
@@ -1034,7 +1034,7 @@
       "sha256": "400867f36c89850a1dbdc936a4bbb31d0dbdcb18509bf1537c4e6dc744090522",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/11.txt",
       "title": "AdGuard Mobile Ads filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_mobile_ads_filter:balanced",
       "version": "2.0.67.92"
     },
@@ -1062,15 +1062,15 @@
       "sha256": "5a6af46bfa1b070cc5979e0d499612d97bdb17652be449b6d47c04b8f96fd0e7",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/11.txt",
       "title": "AdGuard Mobile Ads filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_mobile_ads_filter:strict",
       "version": "2.0.67.92"
     },
     {
       "category": "dns",
       "collection_id": "adguard_dns",
-      "domains_count": 154776,
-      "file_size_bytes": 3151070,
+      "domains_count": 154799,
+      "file_size_bytes": 3151505,
       "id": "adguard_dns",
       "input_format": "adblock",
       "is_uncategorized": false,
@@ -1084,21 +1084,21 @@
         ]
       },
       "output_file": "balanced/adguard/dns/adguard_dns.txt",
-      "parsed_domains_count": 154776,
+      "parsed_domains_count": 154799,
       "protection_level": "balanced",
       "provider": "adguard",
-      "sha256": "f8c06bcb312ee1ccd1c270d44ea99b8ebeebcceb12f746f1aa3b6a6f9656c456",
+      "sha256": "da5416f84d90cb8fba9f4fe6957bd56295935a29d24d8b1661dab20f32bf4e48",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/15.txt",
       "title": "AdGuard DNS filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_dns:balanced",
-      "version": "2.1.13.20"
+      "version": "2.1.13.21"
     },
     {
       "category": "dns",
       "collection_id": "adguard_dns",
-      "domains_count": 154776,
-      "file_size_bytes": 3151070,
+      "domains_count": 154799,
+      "file_size_bytes": 3151505,
       "id": "adguard_dns",
       "input_format": "adblock",
       "is_uncategorized": false,
@@ -1112,21 +1112,21 @@
         ]
       },
       "output_file": "strict/adguard/dns/adguard_dns.txt",
-      "parsed_domains_count": 154776,
+      "parsed_domains_count": 154799,
       "protection_level": "strict",
       "provider": "adguard",
-      "sha256": "f8c06bcb312ee1ccd1c270d44ea99b8ebeebcceb12f746f1aa3b6a6f9656c456",
+      "sha256": "da5416f84d90cb8fba9f4fe6957bd56295935a29d24d8b1661dab20f32bf4e48",
       "source_url": "https://filters.adtidy.org/mac_v3/filters/15.txt",
       "title": "AdGuard DNS filter",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "adguard_dns:strict",
-      "version": "2.1.13.20"
+      "version": "2.1.13.21"
     },
     {
       "category": "base",
       "collection_id": "easylist_family",
-      "domains_count": 55731,
-      "file_size_bytes": 1064233,
+      "domains_count": 55740,
+      "file_size_bytes": 1064391,
       "id": "easylist_base",
       "input_format": "adblock",
       "is_uncategorized": false,
@@ -1140,21 +1140,21 @@
         ]
       },
       "output_file": "balanced/easylist/base/easylist_base.txt",
-      "parsed_domains_count": 55733,
+      "parsed_domains_count": 55742,
       "protection_level": "balanced",
       "provider": "easylist",
-      "sha256": "935a0c9a06c0e632473dc8e42eb57a1f0a43635bfb95ba5a670de46f90598b58",
+      "sha256": "f744f3de746d915b9008ed39cd4372d76e446f054dafa5c29d695a204a12d229",
       "source_url": "https://easylist.to/easylist/easylist.txt",
       "title": "EasyList",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "easylist_base:balanced",
-      "version": "202602280324"
+      "version": "202602280413"
     },
     {
       "category": "base",
       "collection_id": "easylist_family",
-      "domains_count": 57282,
-      "file_size_bytes": 1086220,
+      "domains_count": 57291,
+      "file_size_bytes": 1086378,
       "id": "easylist_base",
       "input_format": "adblock",
       "is_uncategorized": false,
@@ -1168,15 +1168,15 @@
         ]
       },
       "output_file": "strict/easylist/base/easylist_base.txt",
-      "parsed_domains_count": 57290,
+      "parsed_domains_count": 57299,
       "protection_level": "strict",
       "provider": "easylist",
-      "sha256": "33632773bc43a1ba6bdd661a3cc937fd09b57a7c9c67470e49d1a14c3a1c4e6a",
+      "sha256": "675e8968a87cd4b7af9c334ecb9bcd928f887a80c47c31fff946d9ce04f94481",
       "source_url": "https://easylist.to/easylist/easylist.txt",
       "title": "EasyList",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "easylist_base:strict",
-      "version": "202602280324"
+      "version": "202602280413"
     },
     {
       "category": "annoyances",
@@ -1202,7 +1202,7 @@
       "sha256": "d9928a478c8228401577a103e9a39a6579ac151c25596d9bbe8f0aaff91a696b",
       "source_url": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
       "title": "Easylist Cookie List",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "fanboy_cookie_monster:balanced",
       "version": ""
     },
@@ -1230,7 +1230,7 @@
       "sha256": "b0e06983add41da709c2c87475898c3fef18d624530a385b44b7a83046d5def4",
       "source_url": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
       "title": "Easylist Cookie List",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "fanboy_cookie_monster:strict",
       "version": ""
     },
@@ -1258,9 +1258,9 @@
       "sha256": "7458200f49739d225ffc0896f9c8b9d98c2496fa1f3d9d2b87cbb0d09c0f8af9",
       "source_url": "https://easylist.to/easylist/easyprivacy.txt",
       "title": "EasyPrivacy",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "easyprivacy:balanced",
-      "version": "202602280324"
+      "version": "202602280413"
     },
     {
       "category": "tracking",
@@ -1286,9 +1286,9 @@
       "sha256": "b77cf47c2b102e649e64f72cf1428e79f3f51e0995b52b1bfb0f6bcfcb869b31",
       "source_url": "https://easylist.to/easylist/easyprivacy.txt",
       "title": "EasyPrivacy",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "easyprivacy:strict",
-      "version": "202602280324"
+      "version": "202602280413"
     },
     {
       "category": "annoyances",
@@ -1314,7 +1314,7 @@
       "sha256": "80363a24bc2c29d38e593fdf5bf4ec4a523a156cb5affac2df14aa05060e3bd6",
       "source_url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
       "title": "Fanboy's Annoyance List",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "fanboy_annoyance:balanced",
       "version": "202602280025"
     },
@@ -1342,7 +1342,7 @@
       "sha256": "2a04771b10c32b8c9d8f5932412e84cf0c327393728ddf7312f72559b15b77ae",
       "source_url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
       "title": "Fanboy's Annoyance List",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "fanboy_annoyance:strict",
       "version": "202602280025"
     },
@@ -1370,9 +1370,9 @@
       "sha256": "e2d5a177483b23570951f8e18170a1f8bf08de048d4086fbf842dfcfaafcc915",
       "source_url": "https://easylist.to/easylist/fanboy-social.txt",
       "title": "Fanboy's Social Blocking List",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "fanboy_social:balanced",
-      "version": "202602280324"
+      "version": "202602280413"
     },
     {
       "category": "social",
@@ -1398,9 +1398,9 @@
       "sha256": "4d7b0ebd3584735057f177e5ceee8b9c5888662952e75299762be27634e1cfb0",
       "source_url": "https://easylist.to/easylist/fanboy-social.txt",
       "title": "Fanboy's Social Blocking List",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "fanboy_social:strict",
-      "version": "202602280324"
+      "version": "202602280413"
     },
     {
       "category": "base",
@@ -1426,7 +1426,7 @@
       "sha256": "256b6b8599811075053d58db820f2956bbcffd57ddd5702513008be4edadab61",
       "source_url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "stevenblack_hosts:balanced",
       "version": ""
     },
@@ -1454,7 +1454,7 @@
       "sha256": "256b6b8599811075053d58db820f2956bbcffd57ddd5702513008be4edadab61",
       "source_url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "stevenblack_hosts:strict",
       "version": ""
     },
@@ -1482,7 +1482,7 @@
       "sha256": "84c4929e9bea82e6821286a8fbdea80e257f187cc30af4d2d593edd3f3b8b953",
       "source_url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/refs/heads/master/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "ad_wars_hosts:balanced",
       "version": ""
     },
@@ -1510,7 +1510,7 @@
       "sha256": "84c4929e9bea82e6821286a8fbdea80e257f187cc30af4d2d593edd3f3b8b953",
       "source_url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/refs/heads/master/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "ad_wars_hosts:strict",
       "version": ""
     },
@@ -1538,7 +1538,7 @@
       "sha256": "5e17cbce3022c295342935fae62c0fab3003ab369d13be14630f420f47cb726c",
       "source_url": "https://raw.githubusercontent.com/tiuxo/hosts/refs/heads/master/ads",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "tiuxo_ads_hosts:balanced",
       "version": ""
     },
@@ -1566,7 +1566,7 @@
       "sha256": "5e17cbce3022c295342935fae62c0fab3003ab369d13be14630f420f47cb726c",
       "source_url": "https://raw.githubusercontent.com/tiuxo/hosts/refs/heads/master/ads",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "tiuxo_ads_hosts:strict",
       "version": ""
     },
@@ -1594,7 +1594,7 @@
       "sha256": "a9ca68d7af44237b913bab52b9c2653d9663c99722fc506af21933a2817b4bd7",
       "source_url": "https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt",
       "title": "arapurayil's Block List (aBL) - Addon - NSFW",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "abl_nsfw:balanced",
       "version": "3.08.28"
     },
@@ -1622,7 +1622,7 @@
       "sha256": "a9ca68d7af44237b913bab52b9c2653d9663c99722fc506af21933a2817b4bd7",
       "source_url": "https://raw.githubusercontent.com/arapurayil/aBL/main/filters/nsfw.txt",
       "title": "arapurayil's Block List (aBL) - Addon - NSFW",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "abl_nsfw:strict",
       "version": "3.08.28"
     },
@@ -1650,7 +1650,7 @@
       "sha256": "1b6eed02b30205357d0a97e51c9ebf19a9c1489321b1f5230571bab1c1798540",
       "source_url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "blocklistproject_porn:balanced",
       "version": ""
     },
@@ -1678,7 +1678,7 @@
       "sha256": "1b6eed02b30205357d0a97e51c9ebf19a9c1489321b1f5230571bab1c1798540",
       "source_url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "blocklistproject_porn:strict",
       "version": ""
     },
@@ -1706,7 +1706,7 @@
       "sha256": "ee5e1a9c6f93d9f0af93adc31fd65048843339010bf6efc50a97e1b2ebb8d57b",
       "source_url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "chadmayfield_porn_all:balanced",
       "version": ""
     },
@@ -1734,7 +1734,7 @@
       "sha256": "ee5e1a9c6f93d9f0af93adc31fd65048843339010bf6efc50a97e1b2ebb8d57b",
       "source_url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "chadmayfield_porn_all:strict",
       "version": ""
     },
@@ -1762,7 +1762,7 @@
       "sha256": "a2dc85795cec2ed84b1d2cb521880db48a1709838d8de49caf418679ae1088d8",
       "source_url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "chadmayfield_porn_top1m:balanced",
       "version": ""
     },
@@ -1790,7 +1790,7 @@
       "sha256": "a2dc85795cec2ed84b1d2cb521880db48a1709838d8de49caf418679ae1088d8",
       "source_url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "chadmayfield_porn_top1m:strict",
       "version": ""
     },
@@ -1818,7 +1818,7 @@
       "sha256": "a726d7400aa346c84ff44751611462f1f1b624fe227bed00a4ba610066e24986",
       "source_url": "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/refs/heads/master/EnergizedPorn/energized/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "energized_porn_hosts:balanced",
       "version": ""
     },
@@ -1846,7 +1846,7 @@
       "sha256": "a726d7400aa346c84ff44751611462f1f1b624fe227bed00a4ba610066e24986",
       "source_url": "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/refs/heads/master/EnergizedPorn/energized/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "energized_porn_hosts:strict",
       "version": ""
     },
@@ -1874,7 +1874,7 @@
       "sha256": "be8b6cc94e0d3f35da3633281cea2771333c8d7f96f08a2002de5500ba22a8d5",
       "source_url": "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/refs/heads/master/EnergizedPornLite/energized/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "energized_pornlite_hosts:balanced",
       "version": ""
     },
@@ -1902,11 +1902,11 @@
       "sha256": "be8b6cc94e0d3f35da3633281cea2771333c8d7f96f08a2002de5500ba22a8d5",
       "source_url": "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/refs/heads/master/EnergizedPornLite/energized/hosts",
       "title": "Blocked Domains",
-      "updated_at": "2026-02-28T03:37:26Z",
+      "updated_at": "2026-02-28T04:26:51Z",
       "variant_id": "energized_pornlite_hosts:strict",
       "version": ""
     }
   ],
-  "generated_at": "2026-02-28T03:37:26Z",
+  "generated_at": "2026-02-28T04:26:51Z",
   "schema_version": 1
 }
