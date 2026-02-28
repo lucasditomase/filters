@@ -9883,6 +9883,7 @@ conditionchange.com
 conditioncrush.com
 conductrics.com
 conductrics.net
+conduit.redfast.com
 conduze.com
 conf.optum.com
 conference.all-energy.com.au
@@ -12459,6 +12460,7 @@ doomhedge.com
 dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
+doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dotaki.com
 dotaudiences.com
@@ -35608,6 +35610,7 @@ sp.justwatch.com
 sp.naver.com
 sp.pcid.ca
 sp.pcoptimum.ca
+sp.pluto.tv
 sp.soniccares.com
 sp.spaceomatic.fr
 sp.tinymce.com
@@ -40985,6 +40988,7 @@ tr4.mailperf.com
 tr5.mailperf.com
 tr5.mperf.com
 tr6.mperf.com
+tr6.snapchat.com
 trac.roomster.com
 traccoon.intellectsoft.net
 tracdelight.com
@@ -43919,6 +43923,7 @@ vtneexam.quantresear.ch
 vtodss.livenation.com
 vtracker.net
 vtracy.de
+vtrk.dv.tech
 vtrtl.de
 vttics.world.co.jp
 vuypew.ikks.com
