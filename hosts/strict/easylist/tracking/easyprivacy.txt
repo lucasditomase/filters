@@ -4974,6 +4974,7 @@ afep.pivn.shop
 aff-handler.com
 affa8.hikkoshi-master.com
 affclkr.com
+affectionknit.com
 affex.org
 afficv.lettuce.co.jp
 affilae.com
@@ -26596,6 +26597,7 @@ oca.microsoft.com
 occidente.ubmmexico.com
 oceanair.actonservice.com
 oceanautomotive.actonservice.com
+oceancloudhosts.com
 ochre-app.hotdoc.com.au
 oci.dyn.com
 ocmxbu.hanatour.com
