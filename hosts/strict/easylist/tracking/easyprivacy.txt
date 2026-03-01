@@ -21193,6 +21193,7 @@ log-upload-os.hoyolab.com
 log-upload-os.hoyoverse.com
 log.adplex.co.kr
 log.aliyuncs.com
+log.arkansasonline.com
 log.bitauto.com
 log.china.cn
 log.cizion.com
